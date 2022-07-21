@@ -21,6 +21,7 @@ public class LinkedList {
     System.out.println(l);
     l.remove(2);
     System.out.println(l);
+    System.out.println("Jose added coding");
     
     
 	}
